@@ -95,5 +95,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 📬 Contact
 Developer: Venkateswara Reddy
+
 Email: venkateswarareddy2005@gmail.com
+
 GitHub: github.com/venkatesh020705
