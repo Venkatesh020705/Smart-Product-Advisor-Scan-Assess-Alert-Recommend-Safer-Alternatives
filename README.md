@@ -1,5 +1,5 @@
 
-# Noshguard
+<h1 align="center">Noshguard</h1>
 
 ## 📑 Table of Contents
 - [Introduction](#introduction)
